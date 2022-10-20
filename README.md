@@ -3,7 +3,13 @@ A sales invoice is an accounting document that records a business transaction. I
 
 # Initial Load of  Sales Invoice
 Invoice Table Initialy Loaded with saved csv file 
+
 ![initLoad](https://user-images.githubusercontent.com/81976413/197069329-3578178a-8e51-4487-9251-4499f3b7e246.png)
+
+#Initial Load on Console
+
+![ititcon](https://user-images.githubusercontent.com/81976413/197071111-79ab7bad-cb87-430b-ad03-ca7b64e65e21.png)
+
 
 # Create New Invoice
 New Invoice with date Validation and smart logic of getting min number of InvoiceNumber
