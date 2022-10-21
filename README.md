@@ -4,11 +4,10 @@ A sales invoice is an accounting document that records a business transaction. I
 # Initial Load of  Sales Invoice
 Invoice Table Initialy Loaded with saved csv file 
 
-![initLoad](https://user-images.githubusercontent.com/81976413/197069329-3578178a-8e51-4487-9251-4499f3b7e246.png)
+![initLoad](https://user-images.githubusercontent.com/81976413/197283053-997edc84-dc11-4db3-a5f0-da13da975a97.png)
 
 #Initial Load on Console
-
-![ititcon](https://user-images.githubusercontent.com/81976413/197071111-79ab7bad-cb87-430b-ad03-ca7b64e65e21.png)
+![MainTestConsole](https://user-images.githubusercontent.com/81976413/197283081-c0825c0f-96b0-423e-9c60-f201492c05b0.png)
 
 
 # Create New Invoice
@@ -21,3 +20,12 @@ New Invoice with date Validation and smart logic of getting min number of Invoic
 New Line with price and count validation 
 
 ![createnewLInd](https://user-images.githubusercontent.com/81976413/197070122-3390f8bc-be98-4299-be1f-c509625e4df4.png)
+
+# Customer Name changed
+
+![CustomerName changed](https://user-images.githubusercontent.com/81976413/197283163-6333860d-dc40-4332-ad6d-057f03ebc55c.png)
+
+#Selected Invoice
+
+
+![Selected Invoice](https://user-images.githubusercontent.com/81976413/197283233-fcd4ebd1-b2f1-4715-831a-01b59ae1aeb9.png)
